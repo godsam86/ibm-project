@@ -16,8 +16,8 @@ Aplikasi ini dapat digunakan sebagai dasar untuk belajar pengelolaan data dengan
 ## 🛠️ Teknologi yang digunakan
 - PHP (native, tanpa framework)
 - MySQL/MariaDB
-- HTML, CSS (Bootstrap untuk tampilan)
-- XAMPP/Laragon/MAMP (opsional, untuk server lokal)
+- HTML, CSS (tailwind untuk tampilan)
+- XAMPP
 
 ---
 
